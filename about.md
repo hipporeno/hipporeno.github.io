@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Hello, I am Thomas Donofri. I love tinkering with video games, and making videos about video games.
+
+Lead Developer for: Army of Cola: Evergreen Buzz
+
+Only Developer for Yet Another Sandbox Mod
+
+"Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work." - Stephen King
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hippoplaysyt@gmail.com](mailto:hippoplaysyt@gmail.com)
