@@ -10,4 +10,4 @@ Yet Another Sandbox is now complete! Level 1 is ready to play with custom cars, 
 [Download Yet Another Sandbox Mod](https://github.com/hipporeno/hipporeno.github.io/blob/master/files/Yet%20Another%20Sandbox%20Mod%201.1.zip?raw=true)
 
 
-[Mod fourm thread](http://donutteam.com/forum/topic/963/)
+[Mod forum thread](http://donutteam.com/forum/topic/963/)
