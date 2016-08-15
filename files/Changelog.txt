@@ -5,4 +5,3 @@ V1.1 - Added Bonus Mission "Beached Flanders"
 V1.2 - Started Development of Level 2 (Starring Otto!)
 - Tweaked Bonus Mission "Beached Flanders" by adding the a goto stage after collecting all the items
 - Made the "1971 Plymouth Hemi Cuda" less shiny
-
