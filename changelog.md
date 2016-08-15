@@ -4,6 +4,8 @@ title: Changelog
 permalink: /mods/changelog/
 ---
 
+Yet Another Sandbox Mod
+
 - V1.0 - Intital Release
 - V1.1 - Added Bonus Mission "Beached Flanders"
     - Tweaked "Rewards.mfk" to provide rewards for beating the bonus mission and street races
