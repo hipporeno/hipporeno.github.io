@@ -29,3 +29,4 @@ Yet Another Sandbox Mod
     - Closed off level 2 due to me leaving it open in v 1.4.
     - Added a new jingle after beating M5.
     - Fixed M5 not ending properly by adding the aruguments "final" to the last stage.
+    - Tweaked multiple timers in M5 for being too easy.
