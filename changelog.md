@@ -13,7 +13,7 @@ Yet Another Sandbox Mod
     - Tweaked "rewards.mfk" to provide rewards for beating the bonus mission and street races.
     - Added New Mission loading screen image for M0.
 - V1.2
-    -Started Development of Level 2 (Starring Otto!)
+    - Started Development of Level 2 (Starring Otto!)
     - Tweaked Bonus Mission "Beached Flanders" by adding a goto stage after collecting all the items
     - Made the "1971 Plymouth Hemi Cuda" less shiny.
 - V1.3
