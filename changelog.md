@@ -22,3 +22,8 @@ Yet Another Sandbox Mod
 - V1.4 
     - Fixed an issue with the clothes shop created by adding an entry to CustomSkinPreviewAnimations.ini that wasn't needed.
     - Tweaked "rewards.mfk" once more to change one of the costumes.
+- V1.5
+    - Added a remix of "frink_main.rsd" to the mod. (Credit goes to BirdWatcher7000) 
+    - [Link to the remix](https://www.youtube.com/watch?v=_uKg5hh7RDA)
+    - Started mission development of Level 2!
+    - Closed off level 2 due to me leaving it open in v 1.4
