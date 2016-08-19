@@ -25,5 +25,7 @@ Yet Another Sandbox Mod
 - V1.5
     - Added a remix of "frink_main.rsd" to the L1M5. (Credit goes to BirdWatcher7000) 
     - [Link to the remix](https://www.youtube.com/watch?v=_uKg5hh7RDA)
-    - Started mission development of Level 2!
-    - Closed off level 2 due to me leaving it open in v 1.4
+    - Started mission development of Level 2.
+    - Closed off level 2 due to me leaving it open in v 1.4.
+    - Added a new jingle after beating M5.
+    - Fixed M5 not ending properly by adding the aruguments "final" to the last stage.
