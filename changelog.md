@@ -30,3 +30,5 @@ Yet Another Sandbox Mod
     - Added a new jingle after beating M5.
     - Fixed M5 not ending properly by adding the argument "final" to the last stage.
     - Tweaked multiple timers in M5 for being too easy.
+- V1.6
+    - Fixed an issue where upon completing a streetrace, the game would crash.
