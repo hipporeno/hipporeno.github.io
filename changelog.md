@@ -32,3 +32,7 @@ Yet Another Sandbox Mod
     - Tweaked multiple timers in M5 for being too easy.
 - V1.6
     - Fixed an issue where upon completing a streetrace, the game would crash.
+- V1.7
+    - Complelely re-wrote m6 to not corrupt the game leading to m7 infinitely loading after completetion of m6.
+- V1.8 Beta
+    - TBD When level 2 will be opened with 2 missions for a beta demo.
