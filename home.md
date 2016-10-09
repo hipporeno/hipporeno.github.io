@@ -3,6 +3,9 @@
 
 
 <!DOCTYPE html>
+
+<iframe src="https://discordapp.com/widget?id=221026775587618831&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+
 <html lang="en" class=" is-copy-enabled is-u2f-enabled">
   <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# object: http://ogp.me/ns/object# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile#">
     <meta charset='utf-8'>
