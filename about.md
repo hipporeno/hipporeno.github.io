@@ -14,7 +14,6 @@ Only Developer for Yet Another Sandbox Mod
 
 "Talent is cheaper than table salt. What separates the talented individual from the successful one is a lot of hard work." - Stephen King
 
- <a href="http://www.freebiebitcoin.com">Earn free bitcoin</a>
 
 ### Contact me
 
